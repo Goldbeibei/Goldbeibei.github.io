@@ -1,4 +1,5 @@
 # JF個人網站
+https://goldbeibei.github.io/
 ## 參考網站
 
  1. https://ithelp.ithome.com.tw/articles/10301923
