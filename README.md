@@ -6,3 +6,4 @@
 ## 使用軟體
 使用github page架設
 使用Jekyll建立靜態網站：https://jekyllrb.com/
+使用http://jekyllthemes.org/themes/hacker-blog/模板
